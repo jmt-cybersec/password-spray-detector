@@ -1,0 +1,4 @@
+Jan 01 00:00:01 LOGIN FAIL: user=john ip=192.168.1.10
+Jan 01 00:00:02 LOGIN FAIL: user=alice ip=192.168.1.10
+Jan 01 00:00:03 LOGIN FAIL: user=bob ip=192.168.1.10
+Jan 01 00:00:04 LOGIN SUCCESS: user=admin ip=192.168.1.11
